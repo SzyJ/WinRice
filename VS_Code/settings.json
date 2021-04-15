@@ -1,0 +1,9 @@
+{
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "editor.renderWhitespace": "all",
+    "search.smartCase": true
+}
